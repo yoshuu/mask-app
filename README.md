@@ -2,8 +2,8 @@
 
 [DEMO](https://yoshuu.github.io/mask-app/)
 
-練習使用leaflet以及 OpenStreetMap來搭建地圖資料
-以及如何串接api
+練習使用leaflet以及 OpenStreetMap來搭建地圖資料，
+以及如何串接api，
 css使用的框架是tailwind
 
 最終做出來的功能如下:
